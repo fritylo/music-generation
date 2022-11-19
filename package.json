@@ -1,0 +1,8 @@
+{
+  "name": "music-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "fritylo",
+  "license": "MIT",
+  "private": true
+}
