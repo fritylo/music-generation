@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 /** @type {import('vite').UserConfig} */
 export default defineConfig({
   plugins: [react()],
-  base: '/music-generation', // Special asset prefix for deployment 
+  base: '/music-generation/', // Special asset prefix for deployment 
 })

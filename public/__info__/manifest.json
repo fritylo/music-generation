@@ -1,5 +1,5 @@
 {
-    "title": "Music Generation",
+    "title": "<span style=\"text-shadow: 0 2px 4px black;\"><span style=\"font-size: 2em; color: black;\">Music</span> <span>Generation</span></span>",
     "creation_date": "20.11.2022",
     "adaptive": [
         "pc"
@@ -9,10 +9,12 @@
     "is_hidden": false,
     "style": {
         "preview": {
-            "background": "url('$path/icon.png') no-repeat center/cover"
+            "background": "url('$path/icon.png') no-repeat center/cover",
+            "background-size": "5em 5em",
+            "background-color": "#333"
         },
         "content": {
-            "background-color": "red"
+            "background": "linear-gradient(90deg, #ef841587, #78efd0a1)"
         },
         "meta": "dark"
     }
